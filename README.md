@@ -5,7 +5,7 @@
 
 - ⭐ Check out these repositories that I made:
     - [MySQL Java Wrapper Client] (https://github.com/IRPCode/MySQL-Java-Wrapper-Client)
-    - [BlueSky Automated AI Chatbot] (https://github.com/IRPCode/BskyBot)
+    - [BlueSky Automated AI Chatbot] (https://github.com/IRPCode/BlueSky-Automated-AI-Chatbot)
     - [Blender CLI Rendering UI Client] (https://github.com/IRPCode/Blender-CLI-Rendering-UI-Client)
 
 
