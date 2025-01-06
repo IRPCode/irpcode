@@ -4,8 +4,11 @@
 - 🔭 I’m currently working on [MySQL Java Wrapper Client] (https://github.com/IRPCode/MySQL-Java-Wrapper-Client)
 
 - ⭐ Check out these repositories that I made: 
+
       [MySQL Java Wrapper Client] (https://github.com/IRPCode/MySQL-Java-Wrapper-Client)
+
       [BlueSky Automated AI Chatbot] (https://github.com/IRPCode/BskyBot)
+
       [Blender CLI Rendering UI Client] (https://github.com/IRPCode/Blender-CLI-Rendering-UI-Client)
 
 
