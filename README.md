@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Isaac</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irpcode&label=Profile%20views&color=0e75b6&style=flat" alt="irpcode" /> </p>
 
-- 🔭 I’m currently working on [MySQL Java Wrapper Client] (https://github.com/IRPCode/MySQL-Java-Wrapper-Client)
+- 🔭 I’m currently working on [Murphy's Mod] ([https://github.com/IRPCode/MySQL-Java-Wrapper-Client](https://github.com/IRPCode/MurphysMod))
 
 - ⭐ Check out these repositories that I made:
     - [JDBC MySQL Database Client] (https://github.com/IRPCode/JDBC-SQL-Client)
